@@ -9,11 +9,13 @@ See problems section for more info
 
 ## Usage
 
-`Graveler random number generator`
-`--help/-h : print this help message`
-` -r [val] : run multiplier, how many times do you want to repeat a billion runs`
- `-v : try enable vulkan api validation`
- `-w : write highest number of 1s rolled per workgroup``
+```
+Graveler random number generator
+    --help/-h : print this help message
+    -r [val] : run multiplier, how many times do you want to repeat a billion runs
+    -v : try enable vulkan api validation
+    -w : write highest number of 1s rolled per workgroup
+```
 
 ## Build
 
